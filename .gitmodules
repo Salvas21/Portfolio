@@ -1,0 +1,3 @@
+[submodule "SpaceBank"]
+	path = SpaceBank
+	url = git@github.com:Salvas21/SpaceBank.git
