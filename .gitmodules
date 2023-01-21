@@ -7,3 +7,6 @@
 [submodule "PokerGame"]
 	path = PokerGame
 	url = git@github.com:Salvas21/PokerGame.git
+[submodule "PokerHandAnalyser"]
+	path = PokerHandAnalyser
+	url = git@github.com:Salvas21/PokerHandAnalyser.git
