@@ -1,5 +1,5 @@
 # Portfolio
-Ici sont les liens de tout les projets GitHub
+Ici sont les liens de tout mes projets GitHub
 ## Spacebank
 Projet web utilisant NodeJS, sous le sujet d'un système de banque
 ## UnoGame
