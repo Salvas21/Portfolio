@@ -1,3 +1,6 @@
 [submodule "SpaceBank"]
 	path = SpaceBank
 	url = git@github.com:Salvas21/SpaceBank.git
+[submodule "UnoGame"]
+	path = UnoGame
+	url = git@github.com:Salvas21/UnoGame.git
