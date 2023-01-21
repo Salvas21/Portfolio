@@ -13,3 +13,6 @@
 [submodule "SyntaxicParser"]
 	path = SyntaxicParser
 	url = git@github.com:Salvas21/SyntaxicParser.git
+[submodule "SudokuWebGame"]
+	path = SudokuWebGame
+	url = git@github.com:Salvas21/SudokuWebGame.git
