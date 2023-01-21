@@ -4,3 +4,6 @@
 [submodule "UnoGame"]
 	path = UnoGame
 	url = git@github.com:Salvas21/UnoGame.git
+[submodule "PokerGame"]
+	path = PokerGame
+	url = git@github.com:Salvas21/PokerGame.git
