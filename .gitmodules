@@ -10,3 +10,6 @@
 [submodule "PokerHandAnalyser"]
 	path = PokerHandAnalyser
 	url = git@github.com:Salvas21/PokerHandAnalyser.git
+[submodule "SyntaxicParser"]
+	path = SyntaxicParser
+	url = git@github.com:Salvas21/SyntaxicParser.git
