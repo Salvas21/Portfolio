@@ -14,3 +14,5 @@ Projet en Java dans le cadre du cours "Analyse de programmes", ce projet consist
 Projet en ReactJs et Typescript qui représente un jeu de sudoku, conçu en utilisant la programmation immuable et les Principes SOLID, GRASP, Design Patterns, fonctionnalités: save, load, undo, redo, multi selection
 ## GameJam Valleyfield 2020 🦌🎮
 Jeu conçu lors de l'Intercollégial de Jeu Vidéo de Valleyfield en 2020 avec 5 collègues du Cégep de Sorel-Tracy, Unity, caméra top-down avec brouillard
+## Projet TFF - Three Fishermen Friends 🎣
+Ce projet était dans le cadre du cours IoT (Internet of Things), développement d'un micro-contrôleur, application mobile, et site web pour collecter les métriques et informations de voyages de pêches, et d'ensuite les partager par le site web avec ami(s)
