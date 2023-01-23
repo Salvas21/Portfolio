@@ -22,3 +22,6 @@
 [submodule "TFF-Project"]
 	path = TFF-Project
 	url = git@github.com:Salvas21/TFF-Project.git
+[submodule "Java-Socket-Chat"]
+	path = Java-Socket-Chat
+	url = git@github.com:Salvas21/Java-Socket-Chat.git
